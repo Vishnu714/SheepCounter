@@ -1,0 +1,1 @@
+A sheep counter is made using 2 PIR sensors , Arduino uno R3 and a bread board. The pir sensors detect the movement of the sheeps and counts the entry when both the sensors are passed pir1 and pir2 respectively and the exit is counted when one passes from pir2 to pir1. The total number of sheeps present inside is printed .
